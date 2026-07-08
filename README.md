@@ -2,6 +2,10 @@
 
 This project demonstrates a simple Docker image built using Alpine Linux that prints **"Hello, Captain!"** and then exits.
 
+## 🔗 Project Repository
+
+**GitHub:** [Project Captain](https://github.com/Saeed-280/project-captain/tree/main)
+
 ## Prerequisites
 
 - Docker installed on your system
